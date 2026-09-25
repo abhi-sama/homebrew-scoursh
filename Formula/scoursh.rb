@@ -1,9 +1,9 @@
 class Scoursh < Formula
+  # Rendered from packaging/homebrew/scoursh.rb in abhi-sama/scoursh at each release.
+  # Edit it there, not here.
   desc "Egress-restricted security scanner for source, endpoints, and AWS"
   homepage "https://github.com/abhi-sama/scoursh"
-  # RELEASE_JOB: replace both 1.0.0 tokens with the tagged release version.
   url "https://github.com/abhi-sama/scoursh/releases/download/v1.0.0/scoursh-1.0.0.tar.gz"
-  # RELEASE_JOB: replace with the SHA-256 of those exact release-tarball bytes.
   sha256 "df29eba79c15d7d339877ac8fb9708af7b21cff78fce4e9fde72ca343f11d51e"
   license "Apache-2.0"
 
