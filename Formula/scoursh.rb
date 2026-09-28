@@ -1,7 +1,7 @@
 class Scoursh < Formula
   desc "Egress-restricted security scanner for source, endpoints, and AWS"
   homepage "https://github.com/abhi-sama/scoursh"
-  # RELEASE_JOB: replace both 1.1.2 tokens with the tagged release version.
+  # RELEASE_JOB: replace both version placeholders with the tagged release version.
   url "https://github.com/abhi-sama/scoursh/releases/download/v1.1.2/scoursh-1.1.2.tar.gz"
   # RELEASE_JOB: replace with the SHA-256 of those exact release-tarball bytes.
   sha256 "f5b8046fa16ce35dd91fdf96743d0ac304cceaaa1a27492c412e6f851cd78381"
