@@ -3,8 +3,8 @@ class Scoursh < Formula
   # Edit it there, not here.
   desc "Egress-restricted security scanner for source, endpoints, and AWS"
   homepage "https://github.com/abhi-sama/scoursh"
-  url "https://github.com/abhi-sama/scoursh/releases/download/v1.1.2/scoursh-1.1.2.tar.gz"
-  sha256 "f5b8046fa16ce35dd91fdf96743d0ac304cceaaa1a27492c412e6f851cd78381"
+  url "https://github.com/abhi-sama/scoursh/releases/download/v1.2.0/scoursh-1.2.0.tar.gz"
+  sha256 "52d9166ae462dc045c717ddfbb171700bb93219bc0f0fd6613e4a2540a8ed902"
   license "Apache-2.0"
 
   livecheck do
